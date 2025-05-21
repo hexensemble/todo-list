@@ -1,2 +1,3 @@
-# todo-list
-Everyone's favorite coding exercise, a todo list. Built in Rust just because... 🤷
+# To-Do List
+
+Everyone's favorite coding exercise, a To-Do List. Built in Rust just because... 🤷
