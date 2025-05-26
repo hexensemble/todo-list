@@ -10,4 +10,6 @@ Everyone's favorite coding exercise, a To-Do List. Built with Rust just because.
 
 <br>
 
+Just a super simple CLI To-Do List, nothing more.
+
 Supports Mac and Linux.
